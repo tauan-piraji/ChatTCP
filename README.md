@@ -5,4 +5,6 @@ Apos inicializar o servidor e os players, vc vai definir seu nickname e seu hero
 
 
 Apos isso vc já pode iniciar a conversa com seus colegas
+
+
 ![Captura de tela de 2022-07-22 19-29-44](https://user-images.githubusercontent.com/62065621/180576987-f61952d2-9197-4bd1-819c-0279ccfb4e59.png)
